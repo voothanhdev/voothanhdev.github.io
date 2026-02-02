@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[1616,["814","static/chunks/app/wedding/layout-f4f207c89a492013.js"],"default"]
+3:I[1444,[],""]
+4:I[7906,[],""]
+:HL["/fonts/Wedding.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fonts/Wedding2.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/fonts/Wedding3.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/fonts/Wedding4.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/fonts/Madelican.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fonts/HCKS-Madelican.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"7mDCO8ywGNE2ttNVFSgHI","rsc":["$","$1","c",{"children":[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/fonts/Wedding.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding2.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding3.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding4.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding4.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Madelican.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","link",null,{"rel":"preload","href":"/fonts/HCKS-Madelican.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","title",null,{"children":"Đăng & Hương Wedding"}]]}],["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]}]}]]}]]}],"loading":null,"isPartial":false}
