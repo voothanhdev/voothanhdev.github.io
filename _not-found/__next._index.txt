@@ -1,10 +1,6 @@
 1:"$Sreact.fragment"
 2:I[1444,[],""]
 3:I[7906,[],""]
-:HL["/fonts/Wedding.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/fonts/Wedding2.woff","font",{"crossOrigin":"","type":"font/woff"}]
-:HL["/fonts/Wedding3.woff","font",{"crossOrigin":"","type":"font/woff"}]
-:HL["/fonts/Wedding4.woff","font",{"crossOrigin":"","type":"font/woff"}]
-:HL["/fonts/Madelican.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/fonts/HCKS-Madelican.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"SD-tfrCgqZGSyRtJBG-vj","rsc":["$","$1","c",{"children":[null,["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preload","href":"/fonts/Wedding.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding2.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding3.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding4.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Wedding4.woff","as":"font","crossOrigin":"","type":"font/woff"}],["$","link",null,{"rel":"preload","href":"/fonts/Madelican.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","link",null,{"rel":"preload","href":"/fonts/HCKS-Madelican.woff2","as":"font","crossOrigin":"","type":"font/woff2"}],["$","title",null,{"children":"Đăng & Hương Wedding"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}]]}],"loading":null,"isPartial":false}
+:HL["/_next/static/css/16fdaec4f4c7ae21.css","style"]
+:HL["/_next/static/css/8e9dd91958d9e3cb.css","style"]
+0:{"buildId":"3KZZmZKlIptR80f0pvhcA","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/16fdaec4f4c7ae21.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}],"notFound":[["$","div",null,{"className":"_1nlqrf30"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8e9dd91958d9e3cb.css","precedence":"next"}]]]}]}]}]]}],"loading":null,"isPartial":false}
