@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
 2:I[5553,[],"ClientPageRoot"]
-3:I[9210,["592","static/chunks/c15bf2b0-8a233e4f695fbb1c.js","509","static/chunks/509-ac0aed43f66bb195.js","733","static/chunks/app/wedding/page-c3c9c776b109b681.js"],"default"]
+3:I[9740,["592","static/chunks/c15bf2b0-8a233e4f695fbb1c.js","737","static/chunks/737-bf1324c256cea8df.js","733","static/chunks/app/wedding/page-619c28414488c405.js"],"default"]
 6:I[1777,[],"OutletBoundary"]
 7:"$Sreact.suspense"
-:HL["/_next/static/css/5a39919b53a46ec9.css","style"]
-0:{"buildId":"H1y_Kn9KR3FNKd5-dQk9l","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5a39919b53a46ec9.css","precedence":"next"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+:HL["/_next/static/css/20298292d6084ccd.css","style"]
+0:{"buildId":"Ksj5yo2kYk9-ghklsSdJ8","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/20298292d6084ccd.css","precedence":"next"}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
